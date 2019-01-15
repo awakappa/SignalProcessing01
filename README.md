@@ -9,3 +9,6 @@ for "Speech Information Processing" class members
  Convolution,
  stability and causality
  
+## 2.7 LTI Systems in Frequency Domain
+  Frequency respose of LTI systems defined in Z-domain.
+  
