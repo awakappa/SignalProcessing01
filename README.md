@@ -14,4 +14,8 @@ for "Speech Information Processing" class members
   
 ## 2.8 Properties of LTI Systems
   FIR filters and IIR filters: How to apply them in time-domain and How to desing them.
-  .
+
+## Final Report
+  Design digital filters that remove additional noises.
+
+
