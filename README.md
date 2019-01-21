@@ -13,4 +13,5 @@ for "Speech Information Processing" class members
   Frequency respose of LTI systems defined in Z-domain.
   
 ## 2.8 Properties of LTI Systems
-  FIR filter and IIR filter.
+  FIR filters and IIR filters: How to apply them in time-domain and How to desing them.
+  .
